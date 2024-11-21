@@ -8,7 +8,7 @@ A collection of templates to create your own Zaparoo (formerly TapTo) designs an
 * A colour printer.
 * A laminator, or even clear contact adhesive.
 * Double sided adhesive tape, or alternately, "Avery" adhesive labels. There is a template supplied suitable for L7108REV labels.
-* A lightbox. You can easy to cobble one together a home made one. I made one with a lunchbox container and small torch. Even your smartphone showing a white image at full brightness will do the job. Otherwise, consider getting one off Ali Express, or covert that old flatbed scanner you were about to throw out.
+* A lightbox. You can easy to cobble together a home made one. I made one with a lunchbox container and small torch. Even your smartphone showing a white image at full brightness will do the job. Otherwise, consider getting one off Ali Express, or covert that old flatbed scanner you were about to throw out.
 * Scissors.
 * A little patience.
 
