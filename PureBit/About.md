@@ -31,6 +31,14 @@ The Master System was distributed in Australia by a company called OziSoft. They
 * DISTRIBUTED BY OZISOFT. This is some ugly artwork of a Koala sitting in front of a computer.  OziSoft started out distributing software for home computers. You don't care that your game was distributed by OziSoft, but OziSoft want you to know whether you like it or not.
 * NIAL. These small stickers more subtly denoted that they were distributed by OziSoft. NIAL is apparently an acronym for _National Interactive and Leisure_ or maybe _Nippon International Limited_, supposedly an early name for OziSoft.
 
+### mega_drive_blank_v_purebit
+Vertical design with several regional variants:
+* Black Label (early design) Inter, US - early Mega Drive releases used a black version of the previous Master System grid design. There are sub layers to switch between the "Mega Drive logo - International" and "Genesis logo - US".
+* Blue Label (late design) Inter - later releases dropped the grid design and moved to a blue label with the Mega Drive running up the side, used worldwide except for US and Japan.
+* Red Label (late design) US - like the later International design except they went with a red design and "Genesis" in a Copperplate font instead of the previous logo. Mainly used in the US only.
+* Label Japan - a basic design reflecting the Japanese box art design.
+* Electronic Arts - Electronics Arts used their own box art designs and cartridges. While the box art varied a lot, the cartridges all had the yellow EOA tag on the top left which this design reflects.
+
 ### nes_blank_v_purebit
 
 Vertically orientated with a few different styles to choose from.
